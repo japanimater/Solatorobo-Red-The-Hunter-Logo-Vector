@@ -5,4 +5,4 @@ The original logo has a rough finish along the outline of the "Solatorobo" part 
 In regards to the variants I made available, I first created the "smooth" versions and used a roughen effect in Adobe Illustrator to make them resemble the originals. 
 That is why the smooth versions exist.
 
-Tags: Bandai Namco , CyberConnect2 , Solatorobo Red The Hunter , Little Tail Bronx
+Tags: Bandai Namco , CyberConnect2 , Solatorobo Red The Hunter , Little Tail Bronx , ソラトロボ -それからCODAへ
